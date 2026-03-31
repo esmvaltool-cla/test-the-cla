@@ -1,0 +1,2 @@
+This is a file in a repository.
+You cannot contribute change to this repository until you sign the CLA
